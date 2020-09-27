@@ -52,5 +52,29 @@
 </table>
 
 # 专业技能展示
+<table border="0">
+  <tr>
+    <td width="35%">
+      <img src="/zhoulonghai.jpg" width="100%">
+    </td>
+    <td width="35%">
+      <img src="/zhoulonghai.jpg" width="100%">
+    </td>
+    <td width="30%">
+      <img src="/zhoulonghai.jpg" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td width="35%">
+      <img src="/zhoulonghai.jpg" width="100%">
+    </td>
+    <td width="35%">
+      <img src="/zhoulonghai.jpg" width="100%">
+    </td>
+    <td width="30%">
+      <img src="/zhoulonghai.jpg" width="100%">
+    </td>
+  </tr>
+</table>
 
 # 博客发表
