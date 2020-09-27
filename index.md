@@ -12,6 +12,14 @@
     </td>
   </tr>
 </table>
+# 个人简介
+<table border="0">
+  <tr>
+    <td width="100%">
+      <p><b>我是一个热爱技术热爱编程的人，大学四年努力学习编程，做过很多小项目（连连看、计算器、学生成绩管理系统等等），在各种项目中学到了经验和方法，真是受益匪浅。</b></p>
+    </td>
+  </tr>
+</table>
 
 # 学习情况
 <table border="0">
@@ -56,7 +64,7 @@
   <tr>
     <td width="35%">
       <p><b>软件著作权	</b></p>
-      <img src="/rz.jpg" width="100%">
+      <img src="/rj.jpg" width="100%">
       <p><b>第13届大学生计算机设计大赛省级二等奖</b></p>
       <img src="/jisuanji.jpg" width="100%">
       <p><b>校程序设计大赛三等奖</b></p>
