@@ -55,24 +55,26 @@
 <table border="0">
   <tr>
     <td width="35%">
-      <img src="/zhoulonghai.jpg" width="100%">
+      <img src="/rz1.jpg" width="100%">
+      <p><b>软件著作权	</b></p>
     </td>
     <td width="35%">
-      <img src="/zhoulonghai.jpg" width="100%">
+      <img src="/rz2.jpg" width="100%">
+      <p><b>软件著作权	</b></p>
     </td>
     <td width="30%">
-      <img src="/zhoulonghai.jpg" width="100%">
+      <img src="/rz3.jpg" width="100%">
+      <p><b>软件著作权	</b></p>
     </td>
   </tr>
   <tr>
-    <td width="35%">
-      <img src="/zhoulonghai.jpg" width="100%">
-    </td>
-    <td width="35%">
-      <img src="/zhoulonghai.jpg" width="100%">
-    </td>
-    <td width="30%">
-      <img src="/zhoulonghai.jpg" width="100%">
+    <td width="100%">
+      <p><b>第13届大学生计算机设计大赛省级二等奖</b></p>
+      <img src="/jisuanji.jpg" width="100%">
+      <p><b>校程序设计大赛三等奖</b></p>
+      <img src="/chengxusan.jpg" width="100%">
+      <p><b>校网页设计大赛三等奖</b></p>
+      <img src="/wangye.jpg" width="100%">
     </td>
   </tr>
 </table>
