@@ -18,9 +18,9 @@
   <tr>
     <td width="100%">
       <p><b>GPA：2.8</b></p>
-      
+      <img src="/jxj.jpg" width="50%">
       <p><b>校二等奖学金</b></p>
-      
+      <img src="/sanhao.jpg" width="50%">
       <p><b>三好学生</b></p>
       
       <p><b>地址：河北省石家庄市长安区北二环东路17号石家庄铁道大学</b></p>
